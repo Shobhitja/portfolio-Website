@@ -22,9 +22,9 @@ export default Meta
 
 // let's set a default title
 Meta.defaultProps = {
-  title: "Aman Kumar",
+  title: "Shobhit Jaguri",
   description:
-    "I'm a 21-year-old aspiring software engineer, currently pursuing my BTech in Computer Science and Engineering from IIIT Nagpur. I'm currently working on my projects and looking for new opportunities. I'm passionate about learning new technologies, contributing to open-source and solving problems.",
-  keywords: "Aman, Aman Kumar, GSoC, Gnome, Portfolio, amankrx",
+    "I'm a self-taught frontend engineer. I'm currently working on my projects and looking for new opportunities. I'm passionate about learning new technologies.",
+  keywords: "Shobhit, Shobhit jaguri,  shobhitja",
   cover: "",
 }

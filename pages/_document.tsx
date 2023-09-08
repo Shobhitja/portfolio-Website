@@ -15,14 +15,14 @@ export default class Document extends NextDocument {
             href="https://fonts.googleapis.com/css2?family=Fira+Code&family=Lato:ital,wght@0,400;0,700;1,400&family=Noto+Serif:ital,wght@0,400;0,700;1,400&family=Poppins:ital,wght@0,400;0,700;1,400&display=swap"
             rel="stylesheet"
           />
-          <link rel="icon" href="/brand/halfLogo.svg" />
+          <link rel="icon" href="/icon.png" />
           <meta
             name="description"
-            content="I'm a 21-year-old aspiring software engineer, currently pursuing my BTech in Computer Science and Engineering from IIIT Nagpur. I'm currently working on my projects and looking for new opportunities. I'm passionate about learning new technologies, contributing to open-source and solving problems."
+            content="I'm an aspiring software engineer. I'm currently working on my projects and looking for new opportunities. I'm passionate about learning new technologies."
           />
           <meta
             name="keywords"
-            content="Aman, Aman Kumar, GSoC, Gnome, Portfolio, amankrx"
+            content="Shobhit, Shobhit jaguri, Frontend, Webdev, Portfolio, Shobhitja"
           />
           <meta name="author" content="Aman Kumar" />
         </Head>
